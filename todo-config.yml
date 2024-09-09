@@ -1,0 +1,4 @@
+app:
+  todo-config-server.value=20
+  todo-config-server.homescreen=Home Screen
+  values=50
