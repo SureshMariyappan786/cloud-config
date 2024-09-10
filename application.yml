@@ -1,5 +1,5 @@
 todo-config-server:
   homescreen : Home Screen
-  title_missing: "Title is missing"
-  todo_item_not_found: "Todo item is not found"
-  user_not_found: "User not found"
+  title_missing: Title is missing
+  todo_item_not_found: Todo item is not found
+  user_not_found: User not found
