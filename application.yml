@@ -1,5 +1,5 @@
 todo-config-server:
-  welcomeMsg: ${app.welcomeMsg:Hello from config server application}
-  value : 20
   homescreen : Home Screen
-  values : 150
+  title_missing: "Title is missing"
+  todo_item_not_found: "Todo item is not found"
+  user_not_found: "User not found"
