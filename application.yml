@@ -1,0 +1,5 @@
+todo-config-server:
+  welcomeMsg: ${app.welcomeMsg:Hello from config server application}
+  value : 20
+  homescreen : Home Screen
+  values : 150
