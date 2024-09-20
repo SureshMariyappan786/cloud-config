@@ -6,3 +6,4 @@ todo-config-server:
   fetchAllUser: Fetch users successfully
   fetchUser: Fetch user successfully
   userCreated: User created successfully
+  todoDeleted: Todo deleted successfully
