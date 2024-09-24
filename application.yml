@@ -7,3 +7,6 @@ todo-config-server:
   fetchUser: Fetch user successfully
   userCreated: User created successfully
   todoDeleted: Todo deleted successfully
+  userNameEmpty: Username is null/empty
+  passwordEmpty: Password is null/empty
+  roleEmpty: Role is empty
