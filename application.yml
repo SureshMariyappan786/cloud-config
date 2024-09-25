@@ -12,4 +12,5 @@ todo-config-server:
   todoDeleted: Todo deleted successfully
   titleMissing: Title is missing
   todoItemNotFound: Todo item is not found
+  fetchAllTodo: Fetch all todo item successfully
   
