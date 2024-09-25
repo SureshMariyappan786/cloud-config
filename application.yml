@@ -1,12 +1,15 @@
 todo-config-server:
   homeScreen : Home Screen
-  titleMissing: Title is missing
-  todoItemNotFound: Todo item is not found
-  userNotFound: User not found
-  fetchAllUser: Fetch users successfully
-  fetchUser: Fetch user successfully
-  userCreated: User created successfully
-  todoDeleted: Todo deleted successfully
   userNameEmpty: Username/Password is empty
   userNameNull: Username/Password is null
   roleEmpty: Role is empty
+  fetchAllUser: Fetch users successfully
+  fetchUser: Fetch user successfully
+  userCreated: User created successfully
+  userNotFound: User not found
+  todoCreate: Todo created successfully
+  todoUpdate: Todo update successfully
+  todoDeleted: Todo deleted successfully
+  titleMissing: Title is missing
+  todoItemNotFound: Todo item is not found
+  
